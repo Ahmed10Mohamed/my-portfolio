@@ -425,7 +425,7 @@ function Header() {
           </a>
         ))}
       </nav>
-      <a className="headerCta" href="/assets/docs/my_cv.pdf" target="_blank" rel="noreferrer">
+      <a className="headerCta" href="https://my-cv.ahmed-bakrigis.workers.dev" target="_blank" rel="noreferrer">
         CV
       </a>
       <div className="themeSwitcher" aria-label="Theme mode">
@@ -736,8 +736,8 @@ function ContactSection() {
       </div>
 
       <div className="contactActions">
-        <a href="https://my-cv.ahmed-bakrigis.workers.dev" target="_blank" rel="noreferrer">
-           view my CV
+        <a href="/assets/docs/my_cv.pdf" target="_blank" rel="noreferrer">
+           Download CV
         </a>
         <a href="/assets/docs/Latest Links Portfolio.pdf" target="_blank" rel="noreferrer">
           Portfolio PDF
