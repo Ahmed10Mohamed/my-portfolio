@@ -277,6 +277,7 @@ const projects = [
   },
   ...[
     ['Baran PT Center', 'https://erp.baranptcenter.com/', 'erp.baranptcenter.com', 'ERP and operational management platform.'],
+    ['Egy Finance Jobs', 'https://egyfinancejobs.com/', 'egyfinancejobs.com/', 'Egy Finance Jobs'],
     ['Tersana SC', 'https://www.tersana-sc.com/', 'tersana-sc.com', 'Sports club website with content management.'],
     ['School of Business', 'https://schoolofbusiness.net/', 'schoolofbusiness.net', 'Business education website.'],
     ['5 Quarters Edu', 'https://5quartersedu.com/', '5quartersedu.com', 'Education website and institution presence.'],
